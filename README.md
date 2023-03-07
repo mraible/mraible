@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Howdy folks, my name is Matt Raible! 🤠
+## Howdy folks! 🤠
 
 <a href="https://www.youtube.com/mraible">
   <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
