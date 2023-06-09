@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 💻  I’m upgrading JHipster to use Spring Boot 3 and Vue 3.
-- 🌱  I’m planning to relax and smile a lot this spring.
+- 💻  I’m helping to get JHipster 8 released.
+- su☀  I’m planning to go rafting a lot this summer.
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or Okta/Auth0.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water, for 16 years. 
