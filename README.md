@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 
 - 💻  I’m helping to get JHipster 8 released.
-- su☀  I’m planning to go rafting a lot this summer.
+- ☀  I’m planning to go rafting a lot this summer.
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or Okta/Auth0.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water, for 16 years. 
