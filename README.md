@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <a href="https://github.com/mraible">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraible&theme=light&count_private=true&layout=compact" alt="Matt's most used languages" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraible&theme=light&count_private=true" alt="Matt's most used languages" /></a>
+
+**My GitHub Stats:**
+
 <a href="https://github.com/mraible">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mraible&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Matt's GitHub stats"/>
-</a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mraible&show_icons=true&theme=light&line_height=27" alt="Matt's GitHub stats"/></a>
