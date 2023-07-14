@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 ## Howdy folks! 🤠
 
 <a href="https://www.youtube.com/mraible">
-  <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> &nbsp;
+  <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> &nbsp;
 <a href="https://twitter.com/mraible">
-  <img alt="Follow @mraible on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp;
+  <img alt="Follow @mraible on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/mraible/">
-  <img alt="Matt on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;
+  <img alt="Matt on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
 <a href="https://stackoverflow.com/users/65681/matt-raible">
-  <img alt="Matt's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a> &nbsp;
+  <img alt="Matt's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> &nbsp;
 <br/>
 <br/>
 
