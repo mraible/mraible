@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+- 🌴  I'm [on summer vacation](https://twitter.com/mraible/status/1679629527985577984) until August 14th.
 - 💻  I’m helping to get JHipster 8 released.
-- ☀  I’m planning to go rafting a lot this summer.
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or Okta/Auth0.
 - 😄  Pronouns: He/him.
-- ⚡  Fun fact: I grew up without electricity or running water, for 16 years. 
-
+- ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
 
 [![Twitter follow @mraible](https://img.shields.io/twitter/follow/mraible?style=social)](https://twitter.com/mraible) &nbsp;
 [![Linkedin follow @sivalabs](https://img.shields.io/badge/-mraible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mraible/)](https://www.linkedin.com/in/mraible/) &nbsp;
