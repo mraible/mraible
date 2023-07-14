@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Howdy folks! 🤠
+## Howdy, folks! 🤠
 
 <a href="https://www.youtube.com/mraible">
   <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> &nbsp;
@@ -36,12 +36,13 @@ Here are some ideas to get you started:
 [![Linkedin follow @sivalabs](https://img.shields.io/badge/-mraible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mraible/)](https://www.linkedin.com/in/mraible/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-raibledesigns.com-brightgreen)](https://raibledesigns.com)
 
-**Languages and Tools:**  
+### Languages and Tools
 
 <a href="https://github.com/mraible">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraible&theme=light&count_private=true" alt="Matt's most used languages" /></a>
 
-**My GitHub Stats:**
+
+### My GitHub Stats
 
 <a href="https://github.com/mraible">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mraible&show_icons=true&theme=light&line_height=27" alt="Matt's GitHub stats"/></a>
