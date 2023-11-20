@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🌴  I'll be [speaking at Devoxx Belgium in October](https://devoxx.be/schedule/speaker-details/?id=32557)!
-- 💻  I’m helping to get JHipster 8 released.
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or Okta/Auth0.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
