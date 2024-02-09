@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+- 🔭  I'm currently working on my skiing skills. 
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or Okta/Auth0.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
