@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭  I'm currently working on finding my next gig. See my [funemployment story](https://raibledesigns.com/rd/entry/funemployment_2024) and [resume](https://raibledesigns.com/MattRaible-Resume.pdf). 
+- 🤓  I'm co-lead of the excellent [JHipster project](https://github.com/jhipster). 
+- 🎊  My [funemployment story](https://raibledesigns.com/rd/entry/funemployment_2024) will catch you up with my life.
+  - 🍾  I have a few offers and hope to decide on my next gig soon.
+  - 🍖  I'll be at [KC/DC](https://www.kcdc.info/) June 26-28. 
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or OAuth/OIDC.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
