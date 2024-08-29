@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🤓  I'm co-lead of the excellent [JHipster project](https://github.com/jhipster).
-- 🎊  My [funemployment story](https://raibledesigns.com/rd/entry/funemployment_2024) will catch you up with my life.
-  - 🏆  I accepted an offer and start on July 29.
+- 🤓  I'm co-lead of the excellent [JHipster project](https://www.jhipster.tech).
 - 💬  Ask me about Java, Spring Boot, JHipster, Angular, or OAuth/OIDC.
+- 🌱  I’m currently learning Go and Python.
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
 
