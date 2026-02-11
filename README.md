@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 ## Howdy, folks! 🤠
 
 <a href="https://www.youtube.com/mraible">
-  <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a> &nbsp;
-<a href="https://twitter.com/mraible">
-  <img alt="Follow @mraible on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> &nbsp;
+  <img alt="Matt's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" /></a> &nbsp;
+<a href="https://bsky.app/profile/mraible.bsky.social">
+  <img alt="Matt on Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/bluesky.svg" /></a> &nbsp;
+<a href="https://x.com/mraible">
+  <img alt="Follow @mraible on X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/mraible/">
-  <img alt="Matt on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> &nbsp;
+  <img alt="Matt on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" /></a> &nbsp;
 <a href="https://stackoverflow.com/users/65681/matt-raible">
-  <img alt="Matt's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a> &nbsp;
+  <img alt="Matt's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/stackoverflow.svg" /></a> &nbsp;
 <br/>
 <br/>
 
@@ -32,17 +34,30 @@ Here are some ideas to get you started:
 - 😄  Pronouns: He/him.
 - ⚡  Fun fact: I grew up without electricity or running water for 16 years. 
 
-[![Twitter follow @mraible](https://img.shields.io/twitter/follow/mraible?style=social)](https://twitter.com/mraible) &nbsp;
-[![Linkedin follow @sivalabs](https://img.shields.io/badge/-mraible-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mraible/)](https://www.linkedin.com/in/mraible/) &nbsp;
-[![Blog](https://img.shields.io/badge/Blog-raibledesigns.com-brightgreen)](https://raibledesigns.com)
-
 ### Languages and Tools
 
 <a href="https://github.com/mraible">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraible&theme=light&count_private=true" alt="Matt's most used languages" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" alt="Matt's most used languages" />
+  </picture></a>
 
 
 ### My GitHub Stats
 
 <a href="https://github.com/mraible">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mraible&show_icons=true&theme=light&line_height=27" alt="Matt's GitHub stats"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" alt="Matt's GitHub stats" />
+  </picture></a>
+
+### Contribution Activity
+
+<a href="https://github.com/mraible">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" alt="Matt's GitHub profile details" />
+  </picture></a>
