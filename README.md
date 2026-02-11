@@ -36,28 +36,25 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<a href="https://github.com/mraible">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" alt="Matt's most used languages" />
-  </picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mraible&theme=default" alt="Matt's most used languages" />
+</picture>
 
 
 ### My GitHub Stats
 
-<a href="https://github.com/mraible">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" alt="Matt's GitHub stats" />
-  </picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mraible&theme=default" alt="Matt's GitHub stats" />
+</picture>
 
 ### Contribution Activity
 
-<a href="https://github.com/mraible">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" alt="Matt's GitHub profile details" />
-  </picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mraible&theme=default" alt="Matt's GitHub profile details" />
+</picture>
